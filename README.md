@@ -20,6 +20,11 @@
 
 或者访问 https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FSsoutnn%2Fheytea-diy
 
+## 🚀 其他快速部署方式
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LibreSpark/LibreTV)  
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/LibreSpark/LibreTV)
+
 ## 🚨 重要声明
 
 - 本项目仅供学习和个人使用
@@ -37,3 +42,15 @@
 3. 导入您的仓库，使用默认设置
 4. 点击"Deploy"
 5. 出现预览画面，点击即可使用，可保存网址，方便下次使用
+
+
+### Cloudflare Pages
+
+1. Fork 或克隆本仓库到您的 GitHub 账户
+2. 登录 [Cloudflare Dashboard](https://dash.cloudflare.com/)，进入 Pages 服务
+3. 点击"创建项目"，连接您的 GitHub 仓库
+4. 使用以下设置：
+   - 构建命令：留空（无需构建）
+   - 输出目录：留空（默认为根目录）
+5. 点击"保存并部署"
+
