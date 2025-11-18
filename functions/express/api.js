@@ -1,9 +1,9 @@
 export async function onRequest(context) {
-  const responseMsg = function(msg) {
+  const responseMsg = function (msg) {
     return new Response(JSON.stringify({
-        code: 500,
-        success: false,
-        message: msg
+      code: 500,
+      success: false,
+      message: msg
     }), {
       headers: { "Content-Type": "application/json" }
     })
@@ -20,7 +20,7 @@ export async function onRequest(context) {
       headers: headers,
       signal: AbortSignal.timeout(30000)
     }
-    if(method == 'POST' && body) {
+    if (method == 'POST' && body) {
       config.body = JSON.stringify(body);
     }
     const getResponse = await fetch(url, config);

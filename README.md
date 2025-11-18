@@ -17,54 +17,8 @@
 
 本方式最简单，但需要电脑操作
 
-## 📋 运行方式二：Cloudflare Pages（推荐）
 
-1. 在本页面点击Fork 克隆本仓库到您的 GitHub 账户
-
-2. 登录 [Cloudflare Dashboard](https://dash.cloudflare.com/)
-   
-   进入 Pages 服务（左侧Build-> Compute&AI -> Workers&AI)
-3. 点击"Create Application 创建项目"，选择Pages，选择Import an existing Git repository，连接您的 GitHub 仓库
-
-4. 使用以下设置：
-   - 都使用默认配置
-   - Build configuration里输出目录Build output填写：public
-
-5. 点击"保存并部署"
-
-
-## 🚀 运行方式三：在线运行
-可以直接在 GitHub 上运行可视化版本( 对网络连通性要求很高 )
-
-运行方式: 本界面右上角 Use this template -> Open in a codespace
-
-之后等待 Codespace 初始化完成， 启动后会自动安装一些环境依赖
-
-过程可能会比较久， 请耐心等待
-
-等网页编辑器初始化完成后，终端执行会自动执行 npm start
-
-(1)此时浏览器右下角会弹出提示，点击在浏览器中打开
-
-(2)或者在页面中下方，点击终端右边的端口tab，点击转发地址
-
-即可使用可视化操作页面
-
-
-## 🚀 运行方式四：快速部署
-
-选择以下平台，点击一键部署按钮，即可快速创建自己的实例，有时候部署的节点会被墙：
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FSsoutnn%2Fheytea-diy)
-
-或者访问 https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FSsoutnn%2Fheytea-diy
-
-## 🚀 其他快速部署方式
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Ssoutnn/heytea-diy)  
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Ssoutnn/heytea-diy)
-
-## 🏠 运行方式五：本地源码部署
+## 🏠 运行方式二：本地源码部署
 
 第一步：下载安装Node.js（搭建基础环境）
 
@@ -92,6 +46,57 @@
 2.启动项目：输入npm start回车。
 
 3.验证项目运行：启动成功后，终端会显示访问地址，复制这个地址粘贴到浏览器，能打开项目页面就说明成功。
+
+
+
+## ⬇️⬇️⬇️ 以下在线部署方式可能无法上传
+
+## 📋 运行方式三：Cloudflare Pages
+
+1. 在本页面点击Fork 克隆本仓库到您的 GitHub 账户
+
+2. 登录 [Cloudflare Dashboard](https://dash.cloudflare.com/)
+   
+   进入 Pages 服务（左侧Build-> Compute&AI -> Workers&AI)
+3. 点击"Create Application 创建项目"，选择Pages，选择Import an existing Git repository，连接您的 GitHub 仓库
+
+4. 使用以下设置：
+   - 都使用默认配置
+   - Build configuration里输出目录Build output填写：public
+
+5. 点击"保存并部署"
+
+
+## 🚀 运行方式四：在线运行
+可以直接在 GitHub 上运行可视化版本( 对网络连通性要求很高 )
+
+运行方式: 本界面右上角 Use this template -> Open in a codespace
+
+之后等待 Codespace 初始化完成， 启动后会自动安装一些环境依赖
+
+过程可能会比较久， 请耐心等待
+
+等网页编辑器初始化完成后，终端执行会自动执行 npm start
+
+(1)此时浏览器右下角会弹出提示，点击在浏览器中打开
+
+(2)或者在页面中下方，点击终端右边的端口tab，点击转发地址
+
+即可使用可视化操作页面
+
+
+## 🚀 运行方式五：快速部署
+
+选择以下平台，点击一键部署按钮，即可快速创建自己的实例，有时候部署的节点会被墙：
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FSsoutnn%2Fheytea-diy)
+
+或者访问 https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FSsoutnn%2Fheytea-diy
+
+## 🚀 其他快速部署方式
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Ssoutnn/heytea-diy)  
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Ssoutnn/heytea-diy)
 
 ## 🚨 重要声明
 
